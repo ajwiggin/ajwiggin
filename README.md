@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2>Hey, I'm Andrew Wiggin 👋</h2>
+<p>I am a Computer Science major at Western Washington University</p>
+
+[![Linkedin: ajwiggin](https://img.shields.io/badge/-ajwiggin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajwiggin/)](https://www.linkedin.com/in/ajwiggin/)
+[![GitHub ajwiggin](https://img.shields.io/github/followers/ajwiggin?label=follow&style=social)](https://github.com/ajwiggin)
+
+<!--
+
+-->
 
 <!--
 **ajwiggin/ajwiggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
