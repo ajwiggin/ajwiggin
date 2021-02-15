@@ -1,4 +1,4 @@
-<h2>Hey, I'm Andrew Wiggin 👋</h2>
+<h2>Hey, I'm Andrew 👋</h2>
 <p>I am a Computer Science major at Western Washington University</p>
 
 [![Linkedin: ajwiggin](https://img.shields.io/badge/-ajwiggin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajwiggin/)](https://www.linkedin.com/in/ajwiggin/)
